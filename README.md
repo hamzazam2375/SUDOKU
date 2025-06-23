@@ -1,6 +1,6 @@
-# Sudoku in 0x88 Assembly (Text Mode)
+# Sudoku in 8088 Assembly (Text Mode)
 
-A feature-rich Sudoku game built entirely in 0x88 Assembly, running in text mode. Designed for performance and challenge, this project demonstrates the power of low-level programming with interactive gameplay.
+A feature-rich Sudoku game built entirely in 8088 Assembly, running in text mode. Designed for performance and challenge, this project demonstrates the power of low-level programming with interactive gameplay.
 
 ---
 
